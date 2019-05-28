@@ -3,14 +3,19 @@
     "BIDSVersion": "1.0.2",
     "License": "",
     "Authors": [
-        "",
-        "",
-        ""
+        "Matthew Piva",
+        "Kayla Velnoskey",
+        "Ruonan Jia",
+        "Amrita Nair",
+        "Ifat Levy",
+        "Steve W. C. Chang"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [
-        "Natural Sciences and Engineering Research Council of Canada Fellowship (PGSD3-471313-2015) awarded to M.P."
+        "",
+        "",
+        ""
     ],
     "ReferencesAndLinks": [
         "",
