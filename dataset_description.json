@@ -1,11 +1,15 @@
 {
+    "id": "HEAD",
     "Name": "Social Decision-Making Intertemporal Choice Task Dataset",
     "BIDSVersion": "1.0.2",
     "License": "",
     "Authors": [
-        "",
-        "",
-        ""
+        "Matthew Piva",
+        "Kayla Velnoskey",
+        "Ruonan Jia",
+        "Amrita Nair",
+        "Ifat Levy",
+        "Steve W. C. Chang"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
