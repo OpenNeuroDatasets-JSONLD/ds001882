@@ -1,7 +1,7 @@
 {
     "Name": "Social Decision-Making Intertemporal Choice Task Dataset",
     "BIDSVersion": "1.0.2",
-    "License": "CC",
+    "License": "",
     "Authors": [
         "",
         "",
@@ -10,9 +10,7 @@
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [
-        "",
-        "",
-        ""
+        "Natural Sciences and Engineering Research Council of Canada Fellowship (PGSD3-471313-2015) awarded to M.P."
     ],
     "ReferencesAndLinks": [
         "",
