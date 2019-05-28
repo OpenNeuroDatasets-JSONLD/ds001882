@@ -1,6 +1,7 @@
 {
     "Name": "Social Decision-Making Intertemporal Choice Task Dataset",
     "BIDSVersion": "1.0.2",
+    "README": "Agent refers to decision-making for Self (0) or Other (1). Delay is the delay to receiving reward in days. Money is the potential reward in USD.",
     "License": "CC",
     "Authors": [
         "Matthew Piva",
@@ -12,11 +13,7 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": [
-        "",
-        "",
-        ""
-    ],
+    "Funding": ["Natural Sciences and Engineering Research Council of Canada Fellowship (PGSD3-471313-2015) awarded to M.P."],
     "ReferencesAndLinks": [
         "",
         "",
