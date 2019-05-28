@@ -1,23 +1,22 @@
 {
     "Name": "Social Decision-Making Intertemporal Choice Task Dataset",
     "BIDSVersion": "1.0.2",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-        "",
-        "",
-        ""
+        "Matthew Piva",
+        "Kayla Velnoskey",
+        "Ruonan Jia",
+        "Amrita Nair",
+        "Ifat Levy",
+        "Steve W.C. Chang"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": [
-        "",
-        "",
-        ""
-    ],
+    "Funding": ["Natural Sciences and Engineering Research Council of Canada Fellowship (PGSD3-471313-2015) awarded to M.P."],
     "ReferencesAndLinks": [
         "",
         "",
         ""
     ],
-    "DatasetDOI": null
+    "DatasetDOI": "10.18112/openneuro.ds001882.v1.0.4"
 }
